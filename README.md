@@ -32,7 +32,16 @@
 
 
 ## model: 3
+<img width="605" alt="model 3" src="https://user-images.githubusercontent.com/53379511/121019486-708cb680-c7da-11eb-96dc-983de965c01f.PNG">
+
 ### Training and Training loss
+<img width="553" alt="model 3 train n loss" src="https://user-images.githubusercontent.com/53379511/121019497-72ef1080-c7da-11eb-8139-c928178e952b.PNG">
+
 ### Test Accuracy result
+<img width="497" alt="model 3 accuracy" src="https://user-images.githubusercontent.com/53379511/121019489-71bde380-c7da-11eb-8a1d-d9173da7523a.PNG">
+
 ### Images and corresponding probability that are predicted right
+<img width="274" alt="model 3 right" src="https://user-images.githubusercontent.com/53379511/121019493-72567a00-c7da-11eb-8259-04c3099ef7a4.PNG">
+
 ### Images and corresponding probability that are predicted wrong
+<img width="742" alt="model 3 err" src="https://user-images.githubusercontent.com/53379511/121019492-71bde380-c7da-11eb-8cd4-17471b1a5653.PNG">
